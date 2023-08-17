@@ -29,7 +29,7 @@
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/java.svg" alt="Java" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/docker.svg" alt="Docker" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/e1c65b8974bd561317e9ea95d5b97263b3757bb2/Images/html5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
 </p>
