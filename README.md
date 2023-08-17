@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ZavyalovAndrei/" target="_blank">Andrei</a> </h1>
 <h3 align="center">Computer science student in Netology</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/Photo.png" alt="Photo" height="150" width="150" />
+<img align="center" src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/main/Images/Photo.png" alt="Photo" height="150" width="150" />
 
 [![codewars](https://www.codewars.com/users/ZavyalovAndrei/badges/small)](https://www.codewars.com/users/ZavyalovAndrei)
 
@@ -17,7 +17,7 @@
 
 <p align="left">
 <a href="https://https://t.me/AndreiZavialov" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/Telegram.svg" alt="Telegram" height="40" width="40" /></a>
-<a href="https://vk.com/azavyalov83" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/I14da197a952f75f87e04aa37d86304ae228384de/mages/vk.svg" alt="VK" height="40" width="40" /></a>
+<a href="https://vk.com/azavyalov83" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/eefaf1664217fa5db2905c027cf7f7fc0e5ec951/Images/vk.svg" alt="VK" height="40" width="40" /></a>
 <a href="https://codepen.io/Zaver666" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/codepen.svg" alt="Codepen" height="40" width="40" /></a>
 <a href="https://replit.com/@AndrieiZavialov" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/replit.svg" alt="ReplIt" height="40" width="40" /></a>
 </p>
@@ -25,8 +25,8 @@
 ### Languages:
 
 <p align="left"> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/Java.svg" alt="Java" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/Docker.svg" alt="Docker" width="40" height="40"/> </a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/java.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/docker.svg" alt="Docker" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/python.svg" alt="python" width="40" height="40"/> </a> 
@@ -40,7 +40,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/windows.svg" alt="Windows" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/Idea.svg" alt="Idea" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/VS-code.svg" alt="VSCode" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/Photoshop.svg" alt="Photoshop" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/vscode.svg" alt="VSCode" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/photoshop.svg" alt="Photoshop" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZavyalovAndrei/AboutMyself/14da197a952f75f87e04aa37d86304ae228384de/Images/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
